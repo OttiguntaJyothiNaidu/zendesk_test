@@ -1,0 +1,11 @@
+config = {}
+config['user_name'] = 'jyothi.python@yahoo.com'
+config['password'] = 'Hetv@2010'
+config['post_single_org_url'] = 'https://z3nplatformdevojn.zendesk.com/api/v2/organizations.json'
+config['post_many_org_url'] = 'https://z3nplatformdevojn.zendesk.com/api/v2/organizations/create_many.json'
+config['create_many_tickets'] = 'https://z3nplatformdevojn.zendesk.com/api/v2/tickets/create_many.json'
+config['get_tickets_url'] = 'https://z3nplatformdevojn.zendesk.com/api/v2/tickets.json'
+config['update_many_tickets_url'] = 'https://z3nplatformdevojn.zendesk.com/api/v2/tickets/update_many.json'
+config['membership_default_tickets'] = 'https://z3nplatformdevojn.zendesk.com/api/v2/users/{user_id}/group_memberships/{membership_id}/make_default.json'
+config['membership_default_list_tickets'] = 'https://z3nplatformdevojn.zendesk.com/api/v2/group_memberships.json'
+config['url_user'] = 'https://z3nplatformdevojn.zendesk.com/api/v2/users/create_many.json'
